@@ -1,0 +1,77 @@
+[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m

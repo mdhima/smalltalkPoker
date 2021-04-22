@@ -1,0 +1,1968 @@
+[31m#lab is missing, and does not understand #getElem:
+[0mUndefinedObject>>doesNotUnderstand: #getElem:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldState>>doOneSubCycleFor:
+WorldMorph>>doOneSubCycle
+MenuMorph>>invokeModalAt:in:allowKeyboard:
+MenuMorph>>invokeModal:
+MenuMorph>>invokeModal
+RubEditingArea(RubAbstractTextArea)>>yellowButtonActivity:
+RubEditingArea(RubAbstractTextArea)>>mouseDown:
+RubTextScrollPane>>mouseDown:
+RubScrolledTextMorph>>mouseDown:
+RubScrolledTextMorph(Morph)>>handleMouseDown:
+RubScrolledTextMorph>>handleMouseDown:
+MouseButtonEvent>>sentTo:
+RubScrolledTextMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchMouseDown:with:
+MorphicEventDispatcher>>handleMouseDown:
+MouseButtonEvent>>sentTo:
+[ ^ anEvent sentTo: self ] in MorphicEventDispatcher>>dispatchEvent:with: in Block: [ ^ anEvent sentTo: self ]
+BlockClosure>>ensure:
+[0m[31m#lab is missing, and does not understand #getElem:
+[0mUndefinedObject>>doesNotUnderstand: #getElem:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldState>>doOneSubCycleFor:
+WorldMorph>>doOneSubCycle
+MenuMorph>>invokeModalAt:in:allowKeyboard:
+MenuMorph>>invokeModal:
+MenuMorph>>invokeModal
+RubEditingArea(RubAbstractTextArea)>>yellowButtonActivity:
+RubEditingArea(RubAbstractTextArea)>>mouseDown:
+RubTextScrollPane>>mouseDown:
+RubScrolledTextMorph>>mouseDown:
+RubScrolledTextMorph(Morph)>>handleMouseDown:
+RubScrolledTextMorph>>handleMouseDown:
+MouseButtonEvent>>sentTo:
+RubScrolledTextMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchMouseDown:with:
+MorphicEventDispatcher>>handleMouseDown:
+MouseButtonEvent>>sentTo:
+[ ^ anEvent sentTo: self ] in MorphicEventDispatcher>>dispatchEvent:with: in Block: [ ^ anEvent sentTo: self ]
+BlockClosure>>ensure:
+[0m[31m#lab is missing, and does not understand #getElem:
+[0mUndefinedObject>>doesNotUnderstand: #getElem:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldState>>doOneSubCycleFor:
+WorldMorph>>doOneSubCycle
+MenuMorph>>invokeModalAt:in:allowKeyboard:
+MenuMorph>>invokeModal:
+MenuMorph>>invokeModal
+RubEditingArea(RubAbstractTextArea)>>yellowButtonActivity:
+RubEditingArea(RubAbstractTextArea)>>mouseDown:
+RubEditingArea(Morph)>>handleMouseDown:
+MouseButtonEvent>>sentTo:
+RubEditingArea(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchMouseDown:with:
+MorphicEventDispatcher>>handleMouseDown:
+MouseButtonEvent>>sentTo:
+[ ^ anEvent sentTo: self ] in MorphicEventDispatcher>>dispatchEvent:with: in Block: [ ^ anEvent sentTo: self ]
+BlockClosure>>ensure:
+MorphicEventDispatcher>>dispatchEvent:with:
+RubEditingArea(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchMouseDown:with:
+[0m[31m#lab is missing, and does not understand #getElem:
+[0mUndefinedObject>>doesNotUnderstand: #getElem:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldState>>doOneSubCycleFor:
+WorldMorph>>doOneSubCycle
+MenuMorph>>invokeModalAt:in:allowKeyboard:
+MenuMorph>>invokeModal:
+MenuMorph>>invokeModal
+RubEditingArea(RubAbstractTextArea)>>yellowButtonActivity:
+RubEditingArea(RubAbstractTextArea)>>mouseDown:
+RubEditingArea(Morph)>>handleMouseDown:
+MouseButtonEvent>>sentTo:
+RubEditingArea(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchMouseDown:with:
+MorphicEventDispatcher>>handleMouseDown:
+MouseButtonEvent>>sentTo:
+[ ^ anEvent sentTo: self ] in MorphicEventDispatcher>>dispatchEvent:with: in Block: [ ^ anEvent sentTo: self ]
+BlockClosure>>ensure:
+MorphicEventDispatcher>>dispatchEvent:with:
+RubEditingArea(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchMouseDown:with:
+[0m[31mShouldNotImplement: #add: should not have been implemented in Array
+[0mArray(Object)>>shouldNotImplement
+Array(ArrayedCollection)>>add:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mError: Instances of SmallInteger are not indexable
+[0mSmallInteger(Object)>>error:
+SmallInteger(Object)>>errorNotIndexable
+SmallInteger(Object)>>size
+ByteString(SequenceableCollection)>>copyReplaceFrom:to:with:
+ByteString(SequenceableCollection)>>,
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mShouldNotImplement: #add: should not have been implemented in Array
+[0mArray(Object)>>shouldNotImplement
+Array(ArrayedCollection)>>add:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mShouldNotImplement: #add: should not have been implemented in Array
+[0mArray(Object)>>shouldNotImplement
+Array(ArrayedCollection)>>add:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Character did not understand #,
+[0mCharacter(Object)>>doesNotUnderstand: #,
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mArgumentsCountMismatch: This block accepts 0 arguments, but was called with 1 argument.
+[0mBlockClosure>>numArgsError:
+BlockClosure>>value:
+SmallInteger(Number)>>to:do:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key '1' not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mKeyNotFound: key '1' not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mKeyNotFound: key '1' not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key '1' not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mKeyNotFound: key '1' not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key 1 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mArgumentsCountMismatch: This block accepts 0 arguments, but was called with 1 argument.
+[0mBlockClosure>>numArgsError:
+BlockClosure>>value:
+SmallInteger(Number)>>to:do:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of ByteString did not understand #asSmallInteger
+[0mByteString(Object)>>doesNotUnderstand: #asSmallInteger
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mKeyNotFound: key 1 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key '3' not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key '1' not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key $D not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of ByteString did not understand #Integer
+[0mByteString(Object)>>doesNotUnderstand: #Integer
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mKeyNotFound: key 3 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of ByteString did not understand #Integer
+[0mByteString(Object)>>doesNotUnderstand: #Integer
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mKeyNotFound: key 1 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key 2 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key 1 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key 2 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key 1 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Character did not understand #asNumber
+[0mCharacter(Object)>>doesNotUnderstand: #asNumber
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key 1 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key 5 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of ThreadSafeTranscript did not understand #show:at:
+[0mThreadSafeTranscript(Object)>>doesNotUnderstand: #show:at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key $C not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Character did not understand #asNumber
+[0mCharacter(Object)>>doesNotUnderstand: #asNumber
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key $S not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Character did not understand #aString
+[0mCharacter(Object)>>doesNotUnderstand: #aString
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mKeyNotFound: key ByteString not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key Character not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key ByteSymbol not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key Character not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key ByteString not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key 1 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mInstance of Metaclass did not understand #commonSuperclassWith:
+[0mMetaclass(Object)>>doesNotUnderstand: #commonSuperclassWith:
+[ :name | 
+| type1 type2 |
+type2 := stackTop at: name.
+(typeStack top includesKey: name)
+	ifFalse: [ typeStack top at: name put: type2 ]
+	ifTrue: [ type1 := typeStack top at: name.
+		type1 == type2
+			ifFalse: [ typeStack top at: name put: (type2 commonSuperclassWith: type1) ] ] ] in TypingVisitor>>visitBlockNode: in Block: [ :name | ...
+[ :association | aBlock value: association key ] in Dictionary>>keysDo: in Block: [ :association | aBlock value: association key ]
+[ :each | each ifNotNil: [ aBlock value: each ] ] in Dictionary>>associationsDo: in Block: [ :each | each ifNotNil: [ aBlock value: each ] ]
+Array(SequenceableCollection)>>do:
+Dictionary>>associationsDo:
+Dictionary>>keysDo:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode:
+RBSequenceNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+TypingVisitor(RBProgramNodeVisitor)>>visitBlockNode:
+TypingVisitor>>visitBlockNode:
+RBBlockNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode: in Block: [ :each | self visitNode: each ]
+OrderedCollection>>do:
+TypingVisitor(RBProgramNodeVisitor)>>visitMessageNode:
+RBMessageNode>>acceptVisitor:
+TypingVisitor(RBProgramNodeVisitor)>>visitNode:
+[ :each | self visitNode: each ] in TypingVisitor(RBProgramNodeVisitor)>>visitSequenceNode: in Block: [ :each | self visitNode: each ]
+[0m[31mKeyNotFound: key 1 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m[31mKeyNotFound: key 1 not found in Dictionary
+[0mDictionary>>errorKeyNotFound:
+[ self errorKeyNotFound: key ] in Dictionary>>at: in Block: [ self errorKeyNotFound: key ]
+Dictionary>>at:ifAbsent:
+Dictionary>>at:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+RubSmalltalkEditor>>evaluate:andDo:
+RubSmalltalkEditor>>highlightEvaluateAndDo:
+[ textMorph textArea editor highlightEvaluateAndDo: ann action.
+textMorph shoutStyler style: textMorph text ] in [ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea editor highlightEvaluateAndDo...etc...
+RubEditingArea(RubAbstractTextArea)>>handleEdit:
+[ textMorph textArea
+	handleEdit: [ textMorph textArea editor highlightEvaluateAndDo: ann action.
+		textMorph shoutStyler style: textMorph text ] ] in GLMMorphicPharoScriptRenderer(GLMMorphicPharoCodeRenderer)>>actOnHighlightAndEvaluate: in Block: [ textMorph textArea...
+WorldState>>runStepMethodsIn:
+WorldMorph>>runStepMethods
+WorldState>>doOneCycleNowFor:
+WorldState>>doOneCycleFor:
+WorldMorph>>doOneCycle
+WorldMorph class>>doOneCycle
+[ [ WorldMorph doOneCycle.
+Processor yield.
+false ] whileFalse: [  ] ] in MorphicUIManager>>spawnNewProcess in Block: [ [ WorldMorph doOneCycle....
+[ self value.
+Processor terminateActive ] in BlockClosure>>newProcess in Block: [ self value....
+[0m

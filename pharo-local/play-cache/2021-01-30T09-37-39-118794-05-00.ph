@@ -1,0 +1,1 @@
+| input poker youSaid |Transcript clear.input := #( 4 4 4 4 52 52 52 23 25 ).poker := Poker new. youSaid := (poker deal: input).Transcript show: youSaid; cr.
